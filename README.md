@@ -8,7 +8,7 @@ licence generation and getting-started instructions. The app and router licences
 are currently available at no charge.
 
 1. Download the Windows ZIP from a release and extract it to a writable folder.
-2. Run **54GUC.exe** and select the exact supported router model and firmware.
+2. Connect your PC to the router network, then run **54GUC.exe** and select the exact supported router model and firmware.
 3. Generate a router licence on the website and enter the complete code in the app.
 
 Available readings and controls depend on the exact model and firmware. Start
